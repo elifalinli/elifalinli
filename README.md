@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying to become a developer with the great help of Northcoders!
-- 🌱 I’m currently learning Typescript, React-Native and Firebase.
+- 🔭 I’m currently looking for a role as junior software developer! 
+- 🌱 I’m currently learning AWS.
